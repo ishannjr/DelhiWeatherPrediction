@@ -29,4 +29,9 @@ The notebook builds a standard model using Long Short-Term Memory (LSTM) for tim
 
 The notebook contains functions to print the results of the LSTM model fitting process and to visualize the predicted values compared with the actual test values. This section is essential for evaluating the model's performance and gaining insights into its predictive capabilities.
 
+![Screenshot (31)](https://github.com/ishannjr/DelhiWeatherPrediction/assets/87802247/c5917214-e133-45a7-b4d2-009813f78b95)
+
+![Screenshot (27)](https://github.com/ishannjr/DelhiWeatherPrediction/assets/87802247/275a9f82-8d5b-4463-ba33-b8ec591f37fb)
+
+
 
