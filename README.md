@@ -33,5 +33,10 @@ The notebook contains functions to print the results of the LSTM model fitting p
 
 ![Screenshot (27)](https://github.com/ishannjr/DelhiWeatherPrediction/assets/87802247/275a9f82-8d5b-4463-ba33-b8ec591f37fb)
 
+![Screenshot (29)](https://github.com/ishannjr/DelhiWeatherPrediction/assets/87802247/715944b5-c346-4697-8d69-ad86b1cfcf4d)
+
+![Screenshot (30)](https://github.com/ishannjr/DelhiWeatherPrediction/assets/87802247/517a955d-cf21-4241-a2ea-18bd68900800)
+
+
 
 
