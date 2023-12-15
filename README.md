@@ -15,7 +15,7 @@ This Colab notebook contains code for analyzing weather data of Delhi, including
 
 ## Visualizing Data
 
-The notebook (`delhi_weather_analysis.ipynb`) contains code to visualize the behavior of all columns in the Delhi weather dataset. This includes exploratory data analysis (EDA) and various plots to understand trends and patterns.
+The notebook (`WeatherDataDelhi.ipynb`) contains code to visualize the behavior of all columns in the Delhi weather dataset. This includes exploratory data analysis (EDA) and various plots to understand trends and patterns.
 
 ## Time Series Conversion
 
